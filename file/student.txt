@@ -1,0 +1,3 @@
+Name			Age	Roll	Sex
+
+Kishor upadhyaya	19	17	m
